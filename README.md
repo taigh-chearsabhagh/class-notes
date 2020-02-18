@@ -2,7 +2,7 @@
 
 Class Notes for coding classes run by Taigh Chearsabhagh 2019 - 2020
 
-Week 2 source:
+
 
 Week 3 source:
 Filterable List https://youtu.be/G1eW3Oi6uoc 
